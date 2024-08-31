@@ -1,0 +1,48 @@
+.footer {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background-color: rgba(0, 0, 0, 0.774);
+}
+
+.mediaIcons{
+  position: relative;
+  width: 300px;
+  padding: 20px;
+  margin: 0 auto;
+  display: flex;
+  gap: 10px;
+}
+
+.image{
+  width: 60px;
+  height: 60px;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.trait{
+  width: 800px;
+  height: 5px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: #fff;
+  z-index: -1;
+}
+
+.welcome{
+  position: relative;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgba(0, 0, 0, 0);
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 500px;
+  text-align: center;
+}
+
+.welcome img{
+  padding-top: 20px;
+}
