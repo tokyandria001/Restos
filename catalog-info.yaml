@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Restos
+  description: Restos (JavaScript)
+  annotations:
+    github.com/project-slug: tokyandria001/Restos
+  tags:
+    - javascript
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guests
